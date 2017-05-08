@@ -2,7 +2,7 @@
 
 [![Opensouthcode](/logos/solo_logo.png)](https://www.opensouthcode.org/conferences/opensouthcode2017)
 
- - [Presentaciones](https://github.com/opensouthcode/2017#por-orden-alfabético)
+ - [Presentaciones](#por-orden-alfabético)
 
 Repo para coordinar la organización del evento Opensouthcode 2017.
 
