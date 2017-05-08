@@ -6,9 +6,10 @@ Repo para coordinar la organización del evento Opensouthcode 2017.
 
 This repository it's for coordination of the event Opensouthcode 2017.
 
-##Presentaciones
+## Presentaciones
 
-    Para subir presentaciones: realizar un pull request con la presentación dentro del directorio /presentaciones/
+    Para subir presentaciones: 
+    realizar un pull request con la presentación dentro del directorio /presentaciones/
 
 ### Por orden alfabético:
  - [All Your Faces Belong to Us](https://github.com/opensouthcode/2017/raw/master/presentaciones/All_Your_Faces_Belong_to_Us_Opensouthcode_2017-05-06.pdf) (charla de [Jorge Hidalgo](https://www.opensouthcode.org/conferences/opensouthcode2017/program/proposals/71))
