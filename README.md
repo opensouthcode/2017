@@ -26,6 +26,8 @@ This repository it's for coordination of the event Opensouthcode 2017.
  - [Pequeño, preciso y útil](https://github.com/opensouthcode/2017/raw/master/presentaciones/Pequeno%2C%20preciso%20y%20util.pdf) ([volumen 2](https://github.com/opensouthcode/2017/raw/master/presentaciones/Pequenito%2C%20preciso%20y%20%C3%BAtil%20-%20OSC%202017.pdf)) (charla de [Pablo Martínez](https://www.opensouthcode.org/conferences/opensouthcode2017/program/proposals/97))
  - [Reciclaje con Software Libre](https://github.com/opensouthcode/2017/raw/master/presentaciones/La%20Historia%20y%20el%20Reciclaje%20de%20ordenadores%20con%20Software%20Libre%20(OSL).pdf) (charla de [Makova](https://www.opensouthcode.org/conferences/opensouthcode2017/program/proposals/43))
  - [Typescript al día](https://trello.com/b/esOi1EL8/typescript-dotnetmalaga-2016) ([repo de ejemplos](https://github.com/pablonete/typescript-dotnetmalaga-2016)) (charla de [Pablo Núñez](https://www.opensouthcode.org/conferences/opensouthcode2017/program/proposals/104))
+  - [Zero downtime applications with OpenShift](https://github.com/opensouthcode/2017/raw/master/presentaciones/Make%20your%20applications%20thinking%20in%20zero-downtime%20upgrades%20-%20Malaga%20OpenSouthcode.pdf) (charla de [Javier Ramirez](https://www.opensouthcode.org/conferences/opensouthcode2017/program/proposals/36))
+ 
  
  
  - [titulo_charla](url_al_pdf) (charla de [nombre_autor](url_charla_en_opensouthcode_org))
