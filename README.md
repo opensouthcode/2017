@@ -2,6 +2,8 @@
 
 [![Opensouthcode](/logos/solo_logo.png)](https://www.opensouthcode.org/conferences/opensouthcode2017)
 
+ - [Presentaciones](https://github.com/opensouthcode/2017#por-orden-alfabético)
+
 Repo para coordinar la organización del evento Opensouthcode 2017.
 
 This repository it's for coordination of the event Opensouthcode 2017.
