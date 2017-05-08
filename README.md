@@ -3,6 +3,7 @@
 [![Opensouthcode](/logos/solo_logo.png)](https://www.opensouthcode.org/conferences/opensouthcode2017)
 
  - [Presentaciones](#por-orden-alfabético)
+ - [Programa completo](#programa-completo)
 
 Repo para coordinar la organización del evento Opensouthcode 2017.
 
@@ -28,3 +29,6 @@ This repository it's for coordination of the event Opensouthcode 2017.
  
  
  - [titulo_charla](url_al_pdf) (charla de [nombre_autor](url_charla_en_opensouthcode_org))
+
+## Programa completo
+
