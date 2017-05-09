@@ -18,6 +18,11 @@ This repository it's for coordination of the event Opensouthcode 2017.
  - [All Your Faces Belong to Us](https://github.com/opensouthcode/2017/raw/master/presentaciones/All_Your_Faces_Belong_to_Us_Opensouthcode_2017-05-06.pdf) (charla de [Jorge Hidalgo](https://www.opensouthcode.org/conferences/opensouthcode2017/program/proposals/71))
  - [Aprender a programar como si fuera 2017](http://jj.github.io/aprende-a-programar) ([los fuentes, incluyendo código](http://github.com/JJ/aprende-a-programar)) (charla de [JJ Merelo](https://www.opensouthcode.org/conferences/opensouthcode2017/program/proposals/44))
  - [Cómo tener un evento de Software Libre al día](https://github.com/opensouthcode/2017/raw/master/presentaciones/como_tener_un_evento_de_software_libre_al_dia.pdf) (charla de [Psicobyte](https://www.opensouthcode.org/conferences/opensouthcode2017/program/proposals/60))
+ - [Diseño de API (OpenAPI)](https://github.com/opensouthcode/2017/raw/master/presentaciones/OpenAPI.pdf)
+   [servicio](https://us-central1-hombre-o-mujer.cloudfunctions.net/gender?name=nieves),
+   [contrato](http://bit.ly/genero-openapi) y
+   [demo](https://openapi3.herokuapp.com).
+   (charla de [Pedro J. Molina](https://www.opensouthcode.org/conferences/opensouthcode2017/program/proposals/76))
  - [DjangoCMS](https://nekmo.github.io/presentacion-djangocms/) ([código fuente](https://github.com/Nekmo/presentacion-djangocms) y [demo online](https://control.aldryn.com/demo/get-new)) (charla de [Nekmo](https://www.opensouthcode.org/conferences/opensouthcode2017/program/proposals/53))
  - [El mundo al revés: Bash en Windows y PowerShell en Linux](https://github.com/opensouthcode/2017/raw/master/presentaciones/El%20mundo%20al%20rev%C3%A9s%20Bash%20en%20Windows%20y%20PowerShell%20en%20Linux%20%5BCreatorUpdate%5D.pptx) (charla de [Diego Martínez](https://www.opensouthcode.org/conferences/opensouthcode2017/program/proposals/54))
  - [Hackea tu casa con Raspberry pi](https://github.com/opensouthcode/2017/raw/master/presentaciones/HackeaTuCasaConRaspberryPi.pdf) (charla de [Francisco Jesús Acién](https://www.opensouthcode.org/conferences/opensouthcode2017/program/proposals/58))
