@@ -36,8 +36,9 @@ This repository it's for coordination of the event Opensouthcode 2017.
  - [Typescript al día](https://trello.com/b/esOi1EL8/typescript-dotnetmalaga-2016) ([repo de ejemplos](https://github.com/pablonete/typescript-dotnetmalaga-2016)) (charla de [Pablo Núñez](https://www.opensouthcode.org/conferences/opensouthcode2017/program/proposals/104))
  - [Mutation Testing... Who watches the Watchmen?](https://www.slideshare.net/RafaelVindelAmor/who-watches-the-watchmen-mutation-testing-75767706) (charla de [Rafael Vindel Amor](https://www.opensouthcode.org/conferences/opensouthcode2017/program/proposals/93))
  - [Zero downtime applications with OpenShift](https://github.com/opensouthcode/2017/raw/master/presentaciones/Make%20your%20applications%20thinking%20in%20zero-downtime%20upgrades%20-%20Malaga%20OpenSouthcode.pdf) (charla de [Javier Ramirez](https://www.opensouthcode.org/conferences/opensouthcode2017/program/proposals/36))
-  
+
+ - [Voy a tirarme a la piscina del Machine Learning, pero, ¿ qué piscina ? ](https://docs.google.com/presentation/d/1hNVDDNYRAYHunlcH6qlESleVLu-Iz2OvF2--3H09gEk/edit#slide=id.g35f391192_00) (charla de [Paloma de las Cuevas](https://www.opensouthcode.org/conferences/opensouthcode2017/program/proposals/59))
+
  - [titulo_charla](url_al_pdf) (charla de [nombre_autor](url_charla_en_opensouthcode_org))
 
 ## Programa completo
-
