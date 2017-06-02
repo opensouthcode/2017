@@ -17,6 +17,7 @@ This repository it's for coordination of the event Opensouthcode 2017.
 ### Por orden alfabético:
  - [All Your Faces Belong to Us](https://github.com/opensouthcode/2017/raw/master/presentaciones/All_Your_Faces_Belong_to_Us_Opensouthcode_2017-05-06.pdf) (charla de [Jorge Hidalgo](https://www.opensouthcode.org/conferences/opensouthcode2017/program/proposals/71))
  - [Aprender a programar como si fuera 2017](http://jj.github.io/aprende-a-programar) ([los fuentes, incluyendo código](http://github.com/JJ/aprende-a-programar)) (charla de [JJ Merelo](https://www.opensouthcode.org/conferences/opensouthcode2017/program/proposals/44))
+  - [Código limpio](https://github.com/opensouthcode/2017/raw/master/presentaciones/codigo_limpio_openshoutcode_2017_francisco_m_gonzalez.pdf) (charla de [Francisco M. González](https://www.opensouthcode.org/conferences/opensouthcode2017/program/proposals/62))
  - [Cómo tener un evento de Software Libre al día](https://github.com/opensouthcode/2017/raw/master/presentaciones/como_tener_un_evento_de_software_libre_al_dia.pdf) (charla de [Psicobyte](https://www.opensouthcode.org/conferences/opensouthcode2017/program/proposals/60))
  - [Diseño de API (OpenAPI)](https://github.com/opensouthcode/2017/raw/master/presentaciones/OpenAPI.pdf)
    [servicio](https://us-central1-hombre-o-mujer.cloudfunctions.net/gender?name=nieves),
